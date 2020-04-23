@@ -1,4 +1,4 @@
-let baseurl = "https://corona.lmao.ninja/all";
+let baseurl = "https://corona.lmao.ninja/v2/all";
 const updateButton = document.querySelector(".button");
 updateButton.addEventListener("click", getresults);
 function getresults() {
