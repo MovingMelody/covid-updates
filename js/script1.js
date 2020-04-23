@@ -1,4 +1,4 @@
-let baseurl = "https://corona.lmao.ninja/countries/india";
+let baseurl = "https://corona.lmao.ninja/v2/countries/india";
 const updateButton = document.querySelector(".button");
 updateButton.addEventListener("click", getresults);
 function getresults() {
